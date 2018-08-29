@@ -1,0 +1,42 @@
+.navigation{
+
+        float: right;
+
+}
+
+.nav__right{
+
+    color: white;
+    margin: 4px;
+    display: inline;
+    float: left;
+    text-decoration: none;
+}
+
+.header_text {
+    text-decoration: none;
+
+    display: inline;
+
+}
+
+.title {
+    float: left;
+    color: white;
+    margin-left: 20px;
+}
+
+.slideshow{
+
+    margin: 10px;
+    background-image: url("PNG/SlideShow1.jpg");
+    height: 430px;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.sub__title{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: lighter;
+}
